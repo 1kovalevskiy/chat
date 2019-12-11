@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f409da10-c1d7-4990-9e96-4ea971af7fcd" name="Default Changelist" comment="" />
+    <list default="true" id="f409da10-c1d7-4990-9e96-4ea971af7fcd" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +16,14 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="b6ca45ee-c07c-40c6-abb9-99de73a1e67c" />
+  </component>
   <component name="ProjectId" id="1UksOopdj6V6KyUmVQXzpcBSzO6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -23,7 +32,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -183,12 +192,16 @@
       <workItem from="1575911908746" duration="7617000" />
       <workItem from="1575995838106" duration="5203000" />
       <workItem from="1576001963113" duration="2488000" />
-      <workItem from="1576043060480" duration="4568000" />
+      <workItem from="1576043060480" duration="5649000" />
+      <workItem from="1576071708940" duration="114000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
   </component>
   <component name="WindowStateProjectService">
     <state x="78" y="198" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1576043986264">
@@ -207,22 +220,26 @@
       <screen x="0" y="0" width="2498" height="1080" />
     </state>
     <state x="344" y="169" key="#intro_(1)/0.0.2498.1080@0.0.2498.1080" timestamp="1575917383062" />
-    <state width="856" height="223" key="GridCell.Tab.0.bottom" timestamp="1576046453683">
+    <state x="257" y="134" key="CommitChangelistDialog2" timestamp="1576071829743">
       <screen x="0" y="0" width="2498" height="1080" />
     </state>
-    <state width="856" height="223" key="GridCell.Tab.0.bottom/0.0.2498.1080@0.0.2498.1080" timestamp="1576046453683" />
-    <state width="856" height="223" key="GridCell.Tab.0.center" timestamp="1576046453683">
+    <state x="257" y="134" key="CommitChangelistDialog2/0.0.2498.1080@0.0.2498.1080" timestamp="1576071829743" />
+    <state width="856" height="223" key="GridCell.Tab.0.bottom" timestamp="1576071699243">
       <screen x="0" y="0" width="2498" height="1080" />
     </state>
-    <state width="856" height="223" key="GridCell.Tab.0.center/0.0.2498.1080@0.0.2498.1080" timestamp="1576046453683" />
-    <state width="856" height="223" key="GridCell.Tab.0.left" timestamp="1576046453683">
+    <state width="856" height="223" key="GridCell.Tab.0.bottom/0.0.2498.1080@0.0.2498.1080" timestamp="1576071699243" />
+    <state width="856" height="223" key="GridCell.Tab.0.center" timestamp="1576071699243">
       <screen x="0" y="0" width="2498" height="1080" />
     </state>
-    <state width="856" height="223" key="GridCell.Tab.0.left/0.0.2498.1080@0.0.2498.1080" timestamp="1576046453683" />
-    <state width="856" height="223" key="GridCell.Tab.0.right" timestamp="1576046453683">
+    <state width="856" height="223" key="GridCell.Tab.0.center/0.0.2498.1080@0.0.2498.1080" timestamp="1576071699243" />
+    <state width="856" height="223" key="GridCell.Tab.0.left" timestamp="1576071699243">
       <screen x="0" y="0" width="2498" height="1080" />
     </state>
-    <state width="856" height="223" key="GridCell.Tab.0.right/0.0.2498.1080@0.0.2498.1080" timestamp="1576046453683" />
+    <state width="856" height="223" key="GridCell.Tab.0.left/0.0.2498.1080@0.0.2498.1080" timestamp="1576071699243" />
+    <state width="856" height="223" key="GridCell.Tab.0.right" timestamp="1576071699243">
+      <screen x="0" y="0" width="2498" height="1080" />
+    </state>
+    <state width="856" height="223" key="GridCell.Tab.0.right/0.0.2498.1080@0.0.2498.1080" timestamp="1576071699243" />
     <state width="601" height="362" key="GridCell.Tab.1.bottom" timestamp="1576029418659">
       <screen x="0" y="0" width="2498" height="1080" />
     </state>
@@ -239,25 +256,29 @@
       <screen x="0" y="0" width="2498" height="1080" />
     </state>
     <state width="601" height="362" key="GridCell.Tab.1.right/0.0.2498.1080@0.0.2498.1080" timestamp="1576029418659" />
-    <state x="125" y="185" key="SettingsEditor" timestamp="1576044168644">
+    <state x="125" y="185" key="SettingsEditor" timestamp="1576071822448">
       <screen x="0" y="0" width="2498" height="1080" />
     </state>
-    <state x="125" y="185" key="SettingsEditor/0.0.2498.1080@0.0.2498.1080" timestamp="1576044168644" />
+    <state x="125" y="185" key="SettingsEditor/0.0.2498.1080@0.0.2498.1080" timestamp="1576071822448" />
     <state width="498" height="398" key="SwitcherDM" timestamp="1575912019899">
       <screen x="0" y="0" width="2498" height="1080" />
     </state>
     <state width="498" height="398" key="SwitcherDM/0.0.2498.1080@0.0.2498.1080" timestamp="1575912019899" />
-    <state x="1173" y="387" key="com.intellij.ide.util.TipDialog" timestamp="1576043069518">
+    <state x="1173" y="387" key="com.intellij.ide.util.TipDialog" timestamp="1576071709118">
       <screen x="0" y="0" width="2498" height="1080" />
     </state>
-    <state x="1173" y="387" key="com.intellij.ide.util.TipDialog/0.0.2498.1080@0.0.2498.1080" timestamp="1576043069518" />
+    <state x="1173" y="387" key="com.intellij.ide.util.TipDialog/0.0.2498.1080@0.0.2498.1080" timestamp="1576071709118" />
+    <state x="440" y="456" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1576071825868">
+      <screen x="0" y="0" width="2498" height="1080" />
+    </state>
+    <state x="440" y="456" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.2498.1080@0.0.2498.1080" timestamp="1576071825868" />
     <state x="287" y="240" width="672" height="678" key="search.everywhere.popup" timestamp="1576044114975">
       <screen x="0" y="0" width="2498" height="1080" />
     </state>
     <state x="287" y="240" width="672" height="678" key="search.everywhere.popup/0.0.2498.1080@0.0.2498.1080" timestamp="1576044114975" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/chat$server.coverage" NAME="server Coverage Results" MODIFIED="1576046453675" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/chat$server.coverage" NAME="server Coverage Results" MODIFIED="1576071232038" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
     <SUITE FILE_PATH="coverage/chat$class.coverage" NAME="class Coverage Results" MODIFIED="1575995865425" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/first-day" />
     <SUITE FILE_PATH="coverage/chat$intro__1_.coverage" NAME="01-intro Coverage Results" MODIFIED="1575917852009" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/first-day" />
     <SUITE FILE_PATH="coverage/chat$expressions.coverage" NAME="expressions Coverage Results" MODIFIED="1575918639286" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/first-day" />
