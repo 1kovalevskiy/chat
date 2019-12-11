@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f409da10-c1d7-4990-9e96-4ea971af7fcd" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UksOopdj6V6KyUmVQXzpcBSzO6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\Python_project\chat\first-day" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.server">
+    <configuration name="class" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="chat" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/first-day" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/first-day/class.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="classes" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="chat" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/second-day" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/second-day/classes.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="server" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="chat" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/server.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="twisted" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="chat" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/second-day" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/second-day/twisted.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="twisted2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="chat" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="F:\Python_project\chat\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/second-day" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/second-day/twisted2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.class" />
+      <item itemvalue="Python.classes" />
+      <item itemvalue="Python.twisted" />
+      <item itemvalue="Python.twisted2" />
+      <item itemvalue="Python.server" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.server" />
+        <item itemvalue="Python.twisted2" />
+        <item itemvalue="Python.twisted" />
+        <item itemvalue="Python.classes" />
+        <item itemvalue="Python.class" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f409da10-c1d7-4990-9e96-4ea971af7fcd" name="Default Changelist" comment="" />
+      <created>1575911897597</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575911897597</updated>
+      <workItem from="1575911908746" duration="7617000" />
+      <workItem from="1575995838106" duration="5203000" />
+      <workItem from="1576001963113" duration="2488000" />
+      <workItem from="1576043060480" duration="4568000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="78" y="198" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1576043986264">
+      <screen x="0" y="0" width="2498" height="1080" />
+    </state>
+    <state x="78" y="198" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2498.1080@0.0.2498.1080" timestamp="1576043986264" />
+    <state x="387" y="346" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1575914099757">
+      <screen x="0" y="0" width="2498" height="1080" />
+    </state>
+    <state x="387" y="346" key="#com.intellij.fileTypes.FileTypeChooser/0.0.2498.1080@0.0.2498.1080" timestamp="1575914099757" />
+    <state x="429" y="259" key="#com.intellij.ide.util.MemberChooser" timestamp="1576045352983">
+      <screen x="0" y="0" width="2498" height="1080" />
+    </state>
+    <state x="429" y="259" key="#com.intellij.ide.util.MemberChooser/0.0.2498.1080@0.0.2498.1080" timestamp="1576045352983" />
+    <state x="344" y="169" key="#intro_(1)" timestamp="1575917383062">
+      <screen x="0" y="0" width="2498" height="1080" />
+    </state>
+    <state x="344" y="169" key="#intro_(1)/0.0.2498.1080@0.0.2498.1080" timestamp="1575917383062" />
+    <state width="856" height="223" key="GridCell.Tab.0.bottom" timestamp="1576046453683">
+      <screen x="0" y="0" width="2498" height="1080" />
+    </state>
+    <state width="856" height="223" key="GridCell.Tab.0.bottom/0.0.2498.1080@0.0.2498.1080" timestamp="1576046453683" />
+    <state width="856" height="223" key="GridCell.Tab.0.center" timestamp="1576046453683">
+      <screen x="0" y="0" width="2498" height="1080" />
+    </state>
+    <state width="856" height="223" key="GridCell.Tab.0.center/0.0.2498.1080@0.0.2498.1080" timestamp="1576046453683" />
+    <state width="856" height="223" key="GridCell.Tab.0.left" timestamp="1576046453683">
+      <screen x="0" y="0" width="2498" height="1080" />
+    </state>
+    <state width="856" height="223" key="GridCell.Tab.0.left/0.0.2498.1080@0.0.2498.1080" timestamp="1576046453683" />
+    <state width="856" height="223" key="GridCell.Tab.0.right" timestamp="1576046453683">
+      <screen x="0" y="0" width="2498" height="1080" />
+    </state>
+    <state width="856" height="223" key="GridCell.Tab.0.right/0.0.2498.1080@0.0.2498.1080" timestamp="1576046453683" />
+    <state width="601" height="362" key="GridCell.Tab.1.bottom" timestamp="1576029418659">
+      <screen x="0" y="0" width="2498" height="1080" />
+    </state>
+    <state width="601" height="362" key="GridCell.Tab.1.bottom/0.0.2498.1080@0.0.2498.1080" timestamp="1576029418659" />
+    <state width="601" height="362" key="GridCell.Tab.1.center" timestamp="1576029418659">
+      <screen x="0" y="0" width="2498" height="1080" />
+    </state>
+    <state width="601" height="362" key="GridCell.Tab.1.center/0.0.2498.1080@0.0.2498.1080" timestamp="1576029418659" />
+    <state width="601" height="362" key="GridCell.Tab.1.left" timestamp="1576029418659">
+      <screen x="0" y="0" width="2498" height="1080" />
+    </state>
+    <state width="601" height="362" key="GridCell.Tab.1.left/0.0.2498.1080@0.0.2498.1080" timestamp="1576029418659" />
+    <state width="601" height="362" key="GridCell.Tab.1.right" timestamp="1576029418659">
+      <screen x="0" y="0" width="2498" height="1080" />
+    </state>
+    <state width="601" height="362" key="GridCell.Tab.1.right/0.0.2498.1080@0.0.2498.1080" timestamp="1576029418659" />
+    <state x="125" y="185" key="SettingsEditor" timestamp="1576044168644">
+      <screen x="0" y="0" width="2498" height="1080" />
+    </state>
+    <state x="125" y="185" key="SettingsEditor/0.0.2498.1080@0.0.2498.1080" timestamp="1576044168644" />
+    <state width="498" height="398" key="SwitcherDM" timestamp="1575912019899">
+      <screen x="0" y="0" width="2498" height="1080" />
+    </state>
+    <state width="498" height="398" key="SwitcherDM/0.0.2498.1080@0.0.2498.1080" timestamp="1575912019899" />
+    <state x="1173" y="387" key="com.intellij.ide.util.TipDialog" timestamp="1576043069518">
+      <screen x="0" y="0" width="2498" height="1080" />
+    </state>
+    <state x="1173" y="387" key="com.intellij.ide.util.TipDialog/0.0.2498.1080@0.0.2498.1080" timestamp="1576043069518" />
+    <state x="287" y="240" width="672" height="678" key="search.everywhere.popup" timestamp="1576044114975">
+      <screen x="0" y="0" width="2498" height="1080" />
+    </state>
+    <state x="287" y="240" width="672" height="678" key="search.everywhere.popup/0.0.2498.1080@0.0.2498.1080" timestamp="1576044114975" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/chat$server.coverage" NAME="server Coverage Results" MODIFIED="1576046453675" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/chat$class.coverage" NAME="class Coverage Results" MODIFIED="1575995865425" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/first-day" />
+    <SUITE FILE_PATH="coverage/chat$intro__1_.coverage" NAME="01-intro Coverage Results" MODIFIED="1575917852009" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/first-day" />
+    <SUITE FILE_PATH="coverage/chat$expressions.coverage" NAME="expressions Coverage Results" MODIFIED="1575918639286" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/first-day" />
+    <SUITE FILE_PATH="coverage/chat$function.coverage" NAME="function Coverage Results" MODIFIED="1575918676447" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/first-day" />
+    <SUITE FILE_PATH="coverage/chat$classes.coverage" NAME="classes Coverage Results" MODIFIED="1576001773908" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/second-day" />
+    <SUITE FILE_PATH="coverage/chat$twisted2.coverage" NAME="twisted2 Coverage Results" MODIFIED="1576043421821" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/second-day" />
+    <SUITE FILE_PATH="coverage/chat$intro.coverage" NAME="intro Coverage Results" MODIFIED="1575913233958" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/chat$twisted.coverage" NAME="twisted Coverage Results" MODIFIED="1576003838710" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/second-day" />
+  </component>
+</project>
